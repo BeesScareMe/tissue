@@ -2,4 +2,4 @@
 
 ## Team Mambers
 
-[@Nikhil Srinivasan](https://nsrinivasn.net)
+[@Nikhil Srinivasan](https://nsrinivasan.net)
